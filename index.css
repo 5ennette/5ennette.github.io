@@ -144,7 +144,7 @@ td.text-right {
 }
 
 img.image-crop{
-	width: 200px; height: 100px; object-fit: cover; object-position: 50% 100%;
+	width: 200px; height: 100px; object-fit: cover; top:0%;
 }
 img.center-img {
   display: block;
