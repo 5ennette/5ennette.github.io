@@ -1,4 +1,4 @@
 rank,name,score,image
-1,Sen,720,<img src=”/images/sen.png”/>
-2,Oscar,420,<img src=”/images/oscar.png”/>
-3,Kiad,69,<img src=”/images/kiad.png”/>
+1,Sen,720,<img src='/images/sen.png'/>
+2,Oscar,420,<img src='/images/oscar.png'/>
+3,Kiad,69,<img src='/images/kiad.png'/>
