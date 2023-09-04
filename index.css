@@ -83,7 +83,5 @@ tbody:hover > tr:hover td {
   @include opacity(1.0);
 }
 .image {
-	width="600"
-  	height="337"
-	style="width: 600px; height: 337px; object-fit: cover;"
+	style:"width: 400px; height: 300px; object-fit: cover;"
 }
