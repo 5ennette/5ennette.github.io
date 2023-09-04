@@ -9,7 +9,7 @@ body {
 }
 
 div.table-title {
-   display: block;
+  display: block;
   margin: auto;
   max-width: 600px;
   padding:5px;
@@ -143,5 +143,5 @@ td.text-right {
 }
 
 img.image-crop{
-	width: 400px; height: 300px; object-fit: cover; position: absolute; bottom: 0;
+	width: 200px; height: 100px; object-fit: cover; padding-top: 50px;
 }
