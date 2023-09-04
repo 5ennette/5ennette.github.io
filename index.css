@@ -24,7 +24,7 @@ div.table-title {
    font-family: "Roboto", helvetica, arial, sans-serif;
    text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
    text-transform:uppercase;
-	-webkit-text-stroke-width: 4px;
+	-webkit-text-stroke-width: 10px;
   -webkit-text-stroke-color: #1141DE;
 }
 
