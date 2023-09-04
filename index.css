@@ -143,5 +143,5 @@ td.text-right {
 }
 
 img.image-crop{
-	width: 400px; height: 300px; object-fit: cover;
+	width: 400px; height: 300px; object-fit: cover; position: absolute; bottom: 0;
 }
