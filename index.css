@@ -48,7 +48,6 @@ th {
   border-bottom:4px solid #9ea7af;
   border-right: 1px solid #343a45;
   font-size:23px;
-  font-weight: 100;
   padding:24px;
   text-align:left;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -113,7 +112,6 @@ td {
   font-size:18px;
   text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
   border-right: 1px solid #C1C3D1;
-  font-weight: bold;
 }
 
 td:last-child {
@@ -145,7 +143,7 @@ td.text-right {
 }
 
 img.image-crop{
-	width: 200px; height: 100px; object-fit: cover;
+	width: 200px; height: 100px; object-fit: none; object-position: 0 100%;
 }
 img.center-img {
   display: block;
