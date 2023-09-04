@@ -1,34 +1,44 @@
 <head><link rel="stylesheet" href="index.css"></head>
 
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Table Style</title>
+	<meta name="viewport" content="initial-scale=1.0; maximum-scale=1.0; width=device-width;">
+</head>
+
 <body>
-<table>
-    <thead>
-        <tr>
-            <th>Hạng</th>
-            <th>Tên</th>
-            <th>Điểm</th>
-            <th>Deck gần nhất</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-        <td>1</td>
-        <td>Sen</td>
-        <td>720</td>
-        <td><img class="image" src='/images/sen.png'/></td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>Oscar</td>
-        <td>420</td>
-        <td><img class="image" src='/images/oscar.png'/></td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>Kiad</td>
-        <td>69</td>
-        <td><img class="image" src='/images/kiad.png'/></td>
-    </tr>
-    </tbody>
-</table>
+<div class="table-title">
+<h3>Data Table</h3>
+</div>
+<table class="table-fill">
+<thead>
+<tr>
+<th class="text-left">Hạng</th>
+<th class="text-left">Tên</th>
+<th class="text-left">Điểm</th>
+<th class="text-left">Deck Gần Nhất</th>
+</tr>
+</thead>
+<tbody class="table-hover">
+<tr>
+    <td>1</td>
+    <td>Sen</td>
+    <td>720</td>
+    <td><img class="image-crop" src='/images/sen.png'/></td>
+</tr>
+<tr>
+    <td>2</td>
+    <td>Oscar</td>
+    <td>420</td>
+    <td><img class="image-crop" src='/images/oscar.png'/></td>
+</tr>
+<tr>
+    <td>3</td>
+    <td>Kiad</td>
+    <td>69</td>
+    <td><img class="image-crop" src='/images/kiad.png'/></td>
+</tr>
+</tbody>
+</table> 
 </body>
