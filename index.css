@@ -53,6 +53,7 @@ th {
   text-align:left;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   vertical-align:middle;
+  font-weight: bold;
 }
 
 th:first-child {
@@ -144,7 +145,7 @@ td.text-right {
 }
 
 img.image-crop{
-	width: 200px; height: 100px; object-fit: cover; top:0%;
+	width: 200px; height: 100px; object-fit: cover; top:100%;
 }
 img.center-img {
   display: block;
