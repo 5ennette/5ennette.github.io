@@ -155,7 +155,7 @@ img.center-img {
 }
 
 body {
-  background-image: url("/images/bg.webp");
+  background-image: url("/images/bg.png");
   background-repeat: repeat;
   background-blend-mode: lighten;
 }

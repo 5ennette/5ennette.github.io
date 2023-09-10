@@ -1,4 +1,9 @@
 rank,name,score,image
-1,Sen,720,<img src='/images/sen.png'/>
-2,Oscar,420,<img src='/images/oscar.png'/>
-3,Kiad,69,<img src='/images/kiad.png'/>
+1,Thái,50,"<img class=""image-crop"" src='/images/deck/01png'/>"
+2,Thầy Huy,40,"<img class=""image-crop"" src='/images/deck/02.png'/>"
+3,Khánh,32,"<img class=""image-crop"" src='/images/deck/03.png'/>"
+4,Nhân,32,"<img class=""image-crop"" src='/images/deck/04.png'/>"
+5,Phát,13,"<img class=""image-crop"" src='/images/deck/05.png'/>"
+6,Gia Vinh,13,"<img class=""image-crop"" src='/images/deck/06.png'/>"
+7,Duy VH,13,"<img class=""image-crop"" src='/images/deck/07.png'/>"
+8,Nam White,13,"<img class=""image-crop"" src='/images/deck/08.png'/>"
