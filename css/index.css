@@ -2,7 +2,7 @@ body {
   font-family: "Roboto", helvetica, arial, sans-serif;
   background-color: #3e94ec;
   text-rendering: optimizeLegibility;
-  background-image: url(".images/bg.png");
+  background-image: url("./images/bg.png");
   background-repeat: repeat;
   background-blend-mode: lighten;
 }
